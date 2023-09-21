@@ -1,5 +1,9 @@
- 
- .u-section-1 {
+.u-publicidad-1{
+  padding: 1%;
+  background-color: rgb(12, 12, 12);
+}
+
+.u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/f5448e9d4c14ef35d1b9ef52ad229251789ff60505344d57316d57aad8aaf4da6dd8ab4f1a6fae142507110bfbdb527f4e9c2d6d173d47c7c56f85_1280.jpg");
   background-position: 50% 50%;
 }
