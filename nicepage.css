@@ -15590,6 +15590,14 @@ p {
 .u-align-left {
   text-align: left;
 }
+/*
+.u-align-footer-instagram{
+  margin: 100 auto !important;
+}
+*/
+.u-ultima-imagen{
+}
+
 @media (min-width: 1400px) {
   .u-align-left-xxl {
     text-align: left;
@@ -15805,6 +15813,9 @@ p {
 }
 .u-font-playfair-display.u-custom-font {
   font-family: 'Playfair Display', serif !important;
+}
+.u-font-verdana {
+  font-family: Verdana, Arial, sans-serif !important;
 }
 .u-font-lobster.u-custom-font {
   font-family: Lobster, display !important;
@@ -21334,16 +21345,16 @@ h6 {
 }
 .u-body {
   color: #111111;
-  background-color: #ffffff;
+  background-color: #e9f2fa;
   --effect-scale: 1.1;
 }
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+  font-family: 'Open Sans', sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: Oswald,sans-serif !important;
+  font-family: 'Oswald', sans-serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
